@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\таблица.obj",
+            "outputs": [
+                "x64\\Debug\\таблица.cpp.obj.dt.module.json",
+                "x64\\Debug\\таблица.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
